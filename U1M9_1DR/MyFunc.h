@@ -1,0 +1,10 @@
+void yellow();
+void white();
+void red();
+void green();
+char menu();
+int cfseat(struct seat *par);
+void cfs(struct seat *par);
+int crs(struct seat *par);
+void res(struct seat *par);
+void deres(struct seat *par);
